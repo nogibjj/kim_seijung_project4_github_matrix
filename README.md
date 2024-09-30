@@ -1,7 +1,7 @@
 Check CI/CD Status: [![CICD](https://github.com/nogibjj/kim_seijung_project4_github_matrix/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/kim_seijung_project4_github_matrix/actions/workflows/cicd.yml)
 
 # Mini-project #4
-#### repo title: kim_seijung_project4_github_matrix
+#### Repo Title: kim_seijung_project4_github_matrix
 #### Author: Seijung Kim (sk591)
 
 ## Overview
@@ -30,8 +30,8 @@ The project includes the files below:
 
 ## Checking Correctly configured Github Actions Matrix
 You can check that all builds for the different Python versions are correctly configured.
-![Matrix Image](matrix.png)
+<img src="matrix.png" alt="Matrix Image" width="350"/>
 
 
 The below image shows an example workflow for one of the Python versions. All steps from checkout, setting up the Python, install, test, format, lint are successful.
-![Worflow Image](python3-8.png)
+<img src="python3-8.png" alt="Worflow Image" width="350"/>
