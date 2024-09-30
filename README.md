@@ -30,8 +30,12 @@ The project includes the files below:
 
 ## Checking Correctly configured Github Actions Matrix
 You can check that all builds for the different Python versions are correctly configured.
+
+
 <img src="matrix.png" alt="Matrix Image" width="350"/>
 
 
 The below image shows an example workflow for one of the Python versions. All steps from checkout, setting up the Python, install, test, format, lint are successful.
+
+
 <img src="python3-8.png" alt="Worflow Image" width="350"/>
